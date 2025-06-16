@@ -1,18 +1,17 @@
-# 🏦 Bank Management System (C++)
-
-## 📌 Description
+🏦 Bank Management System (C++)
+Description
 A simple terminal-based Bank Management System that simulates basic banking functionalities and an ATM login system. Built in C++ with file handling and OOP concepts.
 
-## 🚀 Features
+Features
 - Create a new account (name, account number, PIN)
 - Basic ATM login with PIN authentication
 - Simple console UI
 
-## 🛠️ Tech Stack
+Tech Stack
 - C++ (modular programming)
 - File I/O (`fstream`)
 
-## 📁 Folder Structure
+Folder Structure
 ```
 bank_management_system/
 ├── main.cpp
@@ -22,14 +21,8 @@ bank_management_system/
 ├── README.md
 ```
 
-## 🧠 Future Enhancements
+Future Enhancements
 - Deposit and withdraw money functionality
 - Change PIN
 - Transaction history
 - File encryption for secure PIN storage
-
-## 📷 Screenshots
-*(Add terminal screenshots here after running the app)*
-
-## 👤 Author
-Arein Jain
